@@ -1,12 +1,12 @@
 ## jai bindings for stb_truetype
 
 stb_truetype version: v1.26</br>
-jai version: beta 0.2.015
+jai version: beta 0.2.021
 
 ### Current operating system supported
 
 - [x] MacOS
 - [x] Windows
-- [ ] Linux
+- [x] Linux (Fedora 43)
 
 Based on jai modules/stb_image bindings generator.
